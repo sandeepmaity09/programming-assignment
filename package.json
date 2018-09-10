@@ -1,0 +1,12 @@
+{
+  "name": "marmeto-assignment-final",
+  "version": "1.0.0",
+  "description": "marmeto-programming-assignment",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "sandeepmaity09",
+  "license": "ISC"
+}
